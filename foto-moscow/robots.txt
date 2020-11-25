@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Host: http://www.foto-moscow.ru
+Sitemap: http://www.foto-moscow.ru/sitemap.xml
